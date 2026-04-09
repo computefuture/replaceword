@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h> 
-#define SIZE 100
+#define SIZE 200
 
 int main() {
     char str[SIZE];
